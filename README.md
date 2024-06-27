@@ -8,8 +8,8 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <img src="https://img.shields.io/badge/Languages-Spanish and English-dodgerblue" />
-<p>Hello! I am currently studying Web Application Development. 
-Soon will begin the selection process for the internship, I'm very excited to start this new stage, as I'm sure it will be a great opportunity to evolve as a professional and a source of enormous learning.
+<p>
+Hello! I like to train in the latest technologies on the market, therefore, for my final degree project I chose to work at Angular, Ionic and Firebase to the management of a stud farm. In this project, I developed components for the Use of the camera, calendars and filters. In addition, I implemented the security of the application using role-based access control. This project has allowed me to specialize in the latest technologies front-end, although I also have concerns about the back-end. During my I have done complex projects with Django, for example, For example, a bookstore with rental management. I also have basic knowledge of Java making desktop applications with Java WindowBuilder for academic grade management.
 
 During these two years of course, I have seen different front-end and back-end technologies. I have not yet decided which one to choose because both fulfill me when I do the projects. So I am open to any opportunity that is offered to me because I will make the most of it ! </p>
 
@@ -23,7 +23,7 @@ During these two years of course, I have seen different front-end and back-end t
 ### 👉 Programming languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,java,js,py" />
+    <img src="https://skillicons.dev/icons?i=bash,java,js,py,angular,spring" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@ During these two years of course, I have seen different front-end and back-end t
 ### 👉 IDE, Tools & Cloud
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,vscode,git,docker,figma,aws" />
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,idea,git,docker,figma,aws,firebase" />
   </a>
 </p>
 
