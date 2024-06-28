@@ -22,9 +22,12 @@ During these two years of course, I have seen different front-end and back-end t
 
 ### 👉 Programming languages
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,java,js,py,angular,spring" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />            
 </p>
 
 ### 👉 Frontend Development
